@@ -28,5 +28,5 @@ flutter build appbundle
 ```
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="./assets/production/ss.png" alt="ss1" width="200"/>
+  <img src="./assets/ss.png" alt="ss1" width="200"/>
 </div>
